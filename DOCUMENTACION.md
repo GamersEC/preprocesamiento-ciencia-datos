@@ -1,5 +1,5 @@
 # DOCUMENTACIÓN
-## Actividad autonomas #3
+## Actividad autonoma #3
 ## Datos Personales:
 #### Nombre: Marcus Mayorga
 #### Fecha: 09 de noviembre del 2025
@@ -14,17 +14,17 @@ En este documento se explica la finalidad del proyecto, los comandos Git habitua
 
 - Proveer scripts y ejemplos para el preprocesamiento de datos.
 - Mantener un flujo de trabajo reproducible con control de versiones.
-- Integrar validaciones/CI mediante GitHub Actions (opcional según el proyecto).
+- Integrar validaciones/CI mediante GitHub Actions
 
 ## 3. Estructura del repositorio
 
-Contenido principal (ejemplos, puede variar):
+Contenido principal:
 
 - `preprocesamiento.py`: Script principal de preprocesamiento.
 - `README.md`: Información general del proyecto.
 - `DOCUMENTACION.md`: Este archivo (documentación y guías).
 
-## 4. Comandos Git usados (ejemplos)
+## 4. Comandos Git usados
 
 A continuación se listan los comandos Git más usados en este proyecto, con ejemplos claros:
 
